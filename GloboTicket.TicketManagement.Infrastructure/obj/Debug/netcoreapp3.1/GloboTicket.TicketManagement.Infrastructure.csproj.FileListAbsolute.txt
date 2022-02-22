@@ -1,0 +1,15 @@
+F:\NETCore\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Infrastructure.deps.json
+F:\NETCore\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Infrastructure.dll
+F:\NETCore\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Infrastructure.pdb
+F:\NETCore\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Application.dll
+F:\NETCore\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Domain.dll
+F:\NETCore\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Application.pdb
+F:\NETCore\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Domain.pdb
+F:\NETCore\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Infrastructure.csproj.AssemblyReference.cache
+F:\NETCore\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\NETCore\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Infrastructure.AssemblyInfoInputs.cache
+F:\NETCore\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Infrastructure.AssemblyInfo.cs
+F:\NETCore\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Infrastructure.csproj.CoreCompileInputs.cache
+F:\NETCore\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Infrastructure.csproj.CopyComplete
+F:\NETCore\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Infrastructure.dll
+F:\NETCore\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Infrastructure\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Infrastructure.pdb
